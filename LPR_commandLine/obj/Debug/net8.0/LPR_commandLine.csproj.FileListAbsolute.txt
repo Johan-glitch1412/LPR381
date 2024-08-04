@@ -1,0 +1,28 @@
+C:\Users\walte\OneDrive - belgiumcampus.ac.za\STUDIES\3ThirdYear\LPR381 LinearPrograming\LPR_comandLine\LPR_commandLine\LPR_commandLine\obj\Debug\net8.0\LPR_commandLine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\walte\OneDrive - belgiumcampus.ac.za\STUDIES\3ThirdYear\LPR381 LinearPrograming\LPR_comandLine\LPR_commandLine\LPR_commandLine\obj\Debug\net8.0\LPR_commandLine.AssemblyInfoInputs.cache
+C:\Users\walte\OneDrive - belgiumcampus.ac.za\STUDIES\3ThirdYear\LPR381 LinearPrograming\LPR_comandLine\LPR_commandLine\LPR_commandLine\obj\Debug\net8.0\LPR_commandLine.AssemblyInfo.cs
+C:\Users\walte\OneDrive - belgiumcampus.ac.za\STUDIES\3ThirdYear\LPR381 LinearPrograming\LPR_comandLine\LPR_commandLine\LPR_commandLine\obj\Debug\net8.0\LPR_commandLine.csproj.CoreCompileInputs.cache
+C:\Users\walte\OneDrive - belgiumcampus.ac.za\STUDIES\3ThirdYear\LPR381 LinearPrograming\LPR_comandLine\LPR_commandLine\LPR_commandLine\bin\Debug\net8.0\LPR_commandLine.exe
+C:\Users\walte\OneDrive - belgiumcampus.ac.za\STUDIES\3ThirdYear\LPR381 LinearPrograming\LPR_comandLine\LPR_commandLine\LPR_commandLine\bin\Debug\net8.0\LPR_commandLine.deps.json
+C:\Users\walte\OneDrive - belgiumcampus.ac.za\STUDIES\3ThirdYear\LPR381 LinearPrograming\LPR_comandLine\LPR_commandLine\LPR_commandLine\bin\Debug\net8.0\LPR_commandLine.runtimeconfig.json
+C:\Users\walte\OneDrive - belgiumcampus.ac.za\STUDIES\3ThirdYear\LPR381 LinearPrograming\LPR_comandLine\LPR_commandLine\LPR_commandLine\bin\Debug\net8.0\LPR_commandLine.dll
+C:\Users\walte\OneDrive - belgiumcampus.ac.za\STUDIES\3ThirdYear\LPR381 LinearPrograming\LPR_comandLine\LPR_commandLine\LPR_commandLine\bin\Debug\net8.0\LPR_commandLine.pdb
+C:\Users\walte\OneDrive - belgiumcampus.ac.za\STUDIES\3ThirdYear\LPR381 LinearPrograming\LPR_comandLine\LPR_commandLine\LPR_commandLine\obj\Debug\net8.0\LPR_commandLine.dll
+C:\Users\walte\OneDrive - belgiumcampus.ac.za\STUDIES\3ThirdYear\LPR381 LinearPrograming\LPR_comandLine\LPR_commandLine\LPR_commandLine\obj\Debug\net8.0\refint\LPR_commandLine.dll
+C:\Users\walte\OneDrive - belgiumcampus.ac.za\STUDIES\3ThirdYear\LPR381 LinearPrograming\LPR_comandLine\LPR_commandLine\LPR_commandLine\obj\Debug\net8.0\LPR_commandLine.pdb
+C:\Users\walte\OneDrive - belgiumcampus.ac.za\STUDIES\3ThirdYear\LPR381 LinearPrograming\LPR_comandLine\LPR_commandLine\LPR_commandLine\obj\Debug\net8.0\LPR_commandLine.genruntimeconfig.cache
+C:\Users\walte\OneDrive - belgiumcampus.ac.za\STUDIES\3ThirdYear\LPR381 LinearPrograming\LPR_comandLine\LPR_commandLine\LPR_commandLine\obj\Debug\net8.0\ref\LPR_commandLine.dll
+C:\Users\Johan.Schoeman\Downloads\LPR_commandLine\LPR_commandLine\bin\Debug\net8.0\LPR_commandLine.exe
+C:\Users\Johan.Schoeman\Downloads\LPR_commandLine\LPR_commandLine\bin\Debug\net8.0\LPR_commandLine.deps.json
+C:\Users\Johan.Schoeman\Downloads\LPR_commandLine\LPR_commandLine\bin\Debug\net8.0\LPR_commandLine.runtimeconfig.json
+C:\Users\Johan.Schoeman\Downloads\LPR_commandLine\LPR_commandLine\bin\Debug\net8.0\LPR_commandLine.dll
+C:\Users\Johan.Schoeman\Downloads\LPR_commandLine\LPR_commandLine\bin\Debug\net8.0\LPR_commandLine.pdb
+C:\Users\Johan.Schoeman\Downloads\LPR_commandLine\LPR_commandLine\obj\Debug\net8.0\LPR_commandLine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Johan.Schoeman\Downloads\LPR_commandLine\LPR_commandLine\obj\Debug\net8.0\LPR_commandLine.AssemblyInfoInputs.cache
+C:\Users\Johan.Schoeman\Downloads\LPR_commandLine\LPR_commandLine\obj\Debug\net8.0\LPR_commandLine.AssemblyInfo.cs
+C:\Users\Johan.Schoeman\Downloads\LPR_commandLine\LPR_commandLine\obj\Debug\net8.0\LPR_commandLine.csproj.CoreCompileInputs.cache
+C:\Users\Johan.Schoeman\Downloads\LPR_commandLine\LPR_commandLine\obj\Debug\net8.0\LPR_commandLine.dll
+C:\Users\Johan.Schoeman\Downloads\LPR_commandLine\LPR_commandLine\obj\Debug\net8.0\refint\LPR_commandLine.dll
+C:\Users\Johan.Schoeman\Downloads\LPR_commandLine\LPR_commandLine\obj\Debug\net8.0\LPR_commandLine.pdb
+C:\Users\Johan.Schoeman\Downloads\LPR_commandLine\LPR_commandLine\obj\Debug\net8.0\LPR_commandLine.genruntimeconfig.cache
+C:\Users\Johan.Schoeman\Downloads\LPR_commandLine\LPR_commandLine\obj\Debug\net8.0\ref\LPR_commandLine.dll
