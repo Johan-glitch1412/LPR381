@@ -14,7 +14,7 @@ namespace LPR381_Project
 
     internal class Program
     {
-            public static string inputFile = @"C:\Users\Johan.Schoeman\Downloads\LPR_commandLine\LP.txt";
+            public static string inputFile = @"C:\Users\walte\source\repos\LPR381\LP.txt";
         static void Main(string[] args)
         {
 
