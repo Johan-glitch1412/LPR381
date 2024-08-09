@@ -7,15 +7,16 @@ using System.Threading.Tasks;
 
 namespace LPR_commandLine.LPAlgorithms
 {
-    internal class PrimalSimplex
+    public class PrimalSimplex
     {
         private InitializeTable _initializer;
+
         public PrimalSimplex(LinearProgrammingModel model)
         {
             _initializer = new InitializeTable(model);
         }
 
-        public void RunSimplex()
+        public (double[] Solution, bool IsOptimal) Solve()
         {
             _initializer.InitializeTableau();
             _initializer.PrintTableau();
@@ -31,7 +32,7 @@ namespace LPR_commandLine.LPAlgorithms
                 int pivotColumn = -1;
                 for (int j = 0; j < numCols - 1; j++)
                 {
-                    if (tableau[0, j] < 0) // For maximization, we look for negative values in the objective row
+                    if (tableau[0, j] < 0) // For maximization, look for negative values in the objective row
                     {
                         optimal = false;
                         pivotColumn = j;
@@ -64,14 +65,34 @@ namespace LPR_commandLine.LPAlgorithms
                 if (pivotRow == -1)
                 {
                     Console.WriteLine("The problem is unbounded.");
-                    break;
+                    return (null, false); // Unbounded problem
                 }
 
                 // Perform the pivot operation
                 Pivot(tableau, pivotRow, pivotColumn);
                 _initializer.PrintTableau();
             }
+
+            // Extract solution from the final tableau
+            double[] solution = new double[_initializer.NumVariables];
+            for (int j = 0; j < _initializer.NumVariables; j++)
+            {
+                // Find the basic variable corresponding to this index
+                int basicVariableIndex = -1;
+                for (int i = 1; i < tableau.GetLength(0); i++)
+                {
+                    if (tableau[i, j] == 1 && IsBasicVariable(tableau, i, j))
+                    {
+                        basicVariableIndex = j;
+                        break;
+                    }
+                }
+                solution[j] = basicVariableIndex != -1 ? tableau[basicVariableIndex + 1, tableau.GetLength(1) - 1] : 0;
+            }
+
+            return (solution, true); // Return the solution with optimal flag
         }
+
         private void Pivot(double[,] tableau, int pivotRow, int pivotColumn)
         {
             int numCols = tableau.GetLength(1);
@@ -98,5 +119,19 @@ namespace LPR_commandLine.LPAlgorithms
             }
         }
 
+        private bool IsBasicVariable(double[,] tableau, int rowIndex, int colIndex)
+        {
+            // Check if the variable is basic (only one '1' in the column)
+            int numRows = tableau.GetLength(0);
+            int count = 0;
+            for (int i = 1; i < numRows; i++)
+            {
+                if (tableau[i, colIndex] == 1)
+                {
+                    count++;
+                }
+            }
+            return count == 1;
+        }
     }
 }

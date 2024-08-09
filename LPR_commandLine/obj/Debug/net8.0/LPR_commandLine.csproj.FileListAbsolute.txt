@@ -34,3 +34,11 @@ C:\Users\walte\Source\Repos\LPR381\LPR_commandLine\obj\Debug\net8.0\LPR_commandL
 C:\Users\walte\Source\Repos\LPR381\LPR_commandLine\obj\Debug\net8.0\LPR_commandLine.dll
 C:\Users\walte\Source\Repos\LPR381\LPR_commandLine\obj\Debug\net8.0\refint\LPR_commandLine.dll
 C:\Users\walte\Source\Repos\LPR381\LPR_commandLine\obj\Debug\net8.0\LPR_commandLine.pdb
+C:\Users\walte\source\repos\LPR_commandLine\obj\Debug\net8.0\LPR_commandLine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\walte\source\repos\LPR_commandLine\obj\Debug\net8.0\LPR_commandLine.AssemblyInfoInputs.cache
+C:\Users\walte\source\repos\LPR_commandLine\obj\Debug\net8.0\LPR_commandLine.AssemblyInfo.cs
+C:\Users\walte\source\repos\LPR_commandLine\obj\Debug\net8.0\LPR_commandLine.csproj.CoreCompileInputs.cache
+C:\Users\walte\source\repos\LPR_commandLine\obj\Debug\net8.0\LPR_commandLine.sourcelink.json
+C:\Users\walte\source\repos\LPR_commandLine\obj\Debug\net8.0\LPR_commandLine.dll
+C:\Users\walte\source\repos\LPR_commandLine\obj\Debug\net8.0\refint\LPR_commandLine.dll
+C:\Users\walte\source\repos\LPR_commandLine\obj\Debug\net8.0\LPR_commandLine.pdb

@@ -1,16 +1,44 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\walte\\source\\repos\\LPR381\\",
+  "WorkspaceRootPath": "C:\\Users\\walte\\source\\repos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E49A29D3-3FFA-4144-B616-E397B95B549D}|LPR_commandLine\\LPR_commandLine.csproj|c:\\users\\walte\\source\\repos\\lpr381\\lpr_commandline\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E49A29D3-3FFA-4144-B616-E397B95B549D}|LPR_commandLine\\LPR_commandLine.csproj|solutionrelative:lpr_commandline\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E49A29D3-3FFA-4144-B616-E397B95B549D}|LPR_commandLine\\LPR_commandLine.csproj|c:\\users\\walte\\source\\repos\\lpr_commandline\\filehandeling\\getinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E49A29D3-3FFA-4144-B616-E397B95B549D}|LPR_commandLine\\LPR_commandLine.csproj|solutionrelative:lpr_commandline\\filehandeling\\getinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\walte\\AppData\\Local\\Temp\\.vsdbgsrc\\ac442c14c05ed7917e1f528bcfa4d34eca17f5c8ad34fa38e2d0f48d43f838cb\\FileParser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E49A29D3-3FFA-4144-B616-E397B95B549D}|LPR_commandLine\\LPR_commandLine.csproj|c:\\users\\walte\\source\\repos\\lpr381\\lpr_commandline\\lpalgorithms\\initializetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E49A29D3-3FFA-4144-B616-E397B95B549D}|LPR_commandLine\\LPR_commandLine.csproj|c:\\users\\walte\\source\\repos\\lpr_commandline\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E49A29D3-3FFA-4144-B616-E397B95B549D}|LPR_commandLine\\LPR_commandLine.csproj|solutionrelative:lpr_commandline\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E49A29D3-3FFA-4144-B616-E397B95B549D}|LPR_commandLine\\LPR_commandLine.csproj|c:\\users\\walte\\source\\repos\\lpr_commandline\\lpalgorithms\\branchandboundsimplex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E49A29D3-3FFA-4144-B616-E397B95B549D}|LPR_commandLine\\LPR_commandLine.csproj|solutionrelative:lpr_commandline\\lpalgorithms\\branchandboundsimplex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E49A29D3-3FFA-4144-B616-E397B95B549D}|LPR_commandLine\\LPR_commandLine.csproj|c:\\users\\walte\\source\\repos\\lpr_commandline\\lpalgorithms\\knapsackbranchandbound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E49A29D3-3FFA-4144-B616-E397B95B549D}|LPR_commandLine\\LPR_commandLine.csproj|solutionrelative:lpr_commandline\\lpalgorithms\\knapsackbranchandbound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E49A29D3-3FFA-4144-B616-E397B95B549D}|LPR_commandLine\\LPR_commandLine.csproj|c:\\users\\walte\\source\\repos\\lpr_commandline\\lpalgorithms\\primalsimplex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E49A29D3-3FFA-4144-B616-E397B95B549D}|LPR_commandLine\\LPR_commandLine.csproj|solutionrelative:lpr_commandline\\lpalgorithms\\primalsimplex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E49A29D3-3FFA-4144-B616-E397B95B549D}|LPR_commandLine\\LPR_commandLine.csproj|c:\\users\\walte\\source\\repos\\lpr_commandline\\models\\lpmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E49A29D3-3FFA-4144-B616-E397B95B549D}|LPR_commandLine\\LPR_commandLine.csproj|solutionrelative:lpr_commandline\\models\\lpmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E49A29D3-3FFA-4144-B616-E397B95B549D}|LPR_commandLine\\LPR_commandLine.csproj|c:\\users\\walte\\source\\repos\\lpr_commandline\\lpalgorithms\\cuttingplanealgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E49A29D3-3FFA-4144-B616-E397B95B549D}|LPR_commandLine\\LPR_commandLine.csproj|solutionrelative:lpr_commandline\\lpalgorithms\\cuttingplanealgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E49A29D3-3FFA-4144-B616-E397B95B549D}|LPR_commandLine\\LPR_commandLine.csproj|c:\\users\\walte\\source\\repos\\lpr_commandline\\lpalgorithms\\dualsimplex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E49A29D3-3FFA-4144-B616-E397B95B549D}|LPR_commandLine\\LPR_commandLine.csproj|solutionrelative:lpr_commandline\\lpalgorithms\\dualsimplex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E49A29D3-3FFA-4144-B616-E397B95B549D}|LPR_commandLine\\LPR_commandLine.csproj|c:\\users\\walte\\source\\repos\\lpr_commandline\\lpalgorithms\\initializetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E49A29D3-3FFA-4144-B616-E397B95B549D}|LPR_commandLine\\LPR_commandLine.csproj|solutionrelative:lpr_commandline\\lpalgorithms\\initializetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -36,38 +64,129 @@
               "DocumentIndex": 1,
               "Title": "FileParser.cs",
               "DocumentMoniker": "C:\\Users\\walte\\AppData\\Local\\Temp\\.vsdbgsrc\\ac442c14c05ed7917e1f528bcfa4d34eca17f5c8ad34fa38e2d0f48d43f838cb\\FileParser.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\ac442c14c05ed7917e1f528bcfa4d34eca17f5c8ad34fa38e2d0f48d43f838cb\\FileParser.cs",
+              "RelativeDocumentMoniker": "..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\ac442c14c05ed7917e1f528bcfa4d34eca17f5c8ad34fa38e2d0f48d43f838cb\\FileParser.cs",
               "ToolTip": "C:\\Users\\walte\\AppData\\Local\\Temp\\.vsdbgsrc\\ac442c14c05ed7917e1f528bcfa4d34eca17f5c8ad34fa38e2d0f48d43f838cb\\FileParser.cs [Read Only]",
-              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\ac442c14c05ed7917e1f528bcfa4d34eca17f5c8ad34fa38e2d0f48d43f838cb\\FileParser.cs [Read Only]",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAACAAAA",
+              "RelativeToolTip": "..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\ac442c14c05ed7917e1f528bcfa4d34eca17f5c8ad34fa38e2d0f48d43f838cb\\FileParser.cs [Read Only]",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAwwDIAAABBAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-05T14:20:36.163Z",
+              "WhenOpened": "2024-08-09T05:13:57.008Z",
               "EditorCaption": " [Read Only]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\walte\\source\\repos\\LPR381\\LPR_commandLine\\Program.cs",
-              "RelativeDocumentMoniker": "LPR_commandLine\\Program.cs",
-              "ToolTip": "C:\\Users\\walte\\source\\repos\\LPR381\\LPR_commandLine\\Program.cs",
-              "RelativeToolTip": "LPR_commandLine\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABZAAAA",
+              "Title": "GetInput.cs",
+              "DocumentMoniker": "C:\\Users\\walte\\source\\repos\\LPR_commandLine\\FileHandeling\\GetInput.cs",
+              "RelativeDocumentMoniker": "LPR_commandLine\\FileHandeling\\GetInput.cs",
+              "ToolTip": "C:\\Users\\walte\\source\\repos\\LPR_commandLine\\FileHandeling\\GetInput.cs",
+              "RelativeToolTip": "LPR_commandLine\\FileHandeling\\GetInput.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE8AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-05T14:19:38.085Z",
+              "WhenOpened": "2024-08-09T05:12:51.083Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "InitializeTable.cs",
-              "DocumentMoniker": "C:\\Users\\walte\\source\\repos\\LPR381\\LPR_commandLine\\LPAlgorithms\\InitializeTable.cs",
-              "RelativeDocumentMoniker": "LPR_commandLine\\LPAlgorithms\\InitializeTable.cs",
-              "ToolTip": "C:\\Users\\walte\\source\\repos\\LPR381\\LPR_commandLine\\LPAlgorithms\\InitializeTable.cs",
-              "RelativeToolTip": "LPR_commandLine\\LPAlgorithms\\InitializeTable.cs",
-              "ViewState": "AQIAAEwAAAAAAAAAAAAYwGUAAAAMAAAA",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\walte\\source\\repos\\LPR_commandLine\\Program.cs",
+              "RelativeDocumentMoniker": "LPR_commandLine\\Program.cs",
+              "ToolTip": "C:\\Users\\walte\\source\\repos\\LPR_commandLine\\Program.cs",
+              "RelativeToolTip": "LPR_commandLine\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-05T14:19:24.24Z",
+              "WhenOpened": "2024-08-09T05:05:19.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LPModel.cs",
+              "DocumentMoniker": "C:\\Users\\walte\\source\\repos\\LPR_commandLine\\Models\\LPModel.cs",
+              "RelativeDocumentMoniker": "LPR_commandLine\\Models\\LPModel.cs",
+              "ToolTip": "C:\\Users\\walte\\source\\repos\\LPR_commandLine\\Models\\LPModel.cs",
+              "RelativeToolTip": "LPR_commandLine\\Models\\LPModel.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA1wC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T05:02:50.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PrimalSimplex.cs",
+              "DocumentMoniker": "C:\\Users\\walte\\source\\repos\\LPR_commandLine\\LPAlgorithms\\PrimalSimplex.cs",
+              "RelativeDocumentMoniker": "LPR_commandLine\\LPAlgorithms\\PrimalSimplex.cs",
+              "ToolTip": "C:\\Users\\walte\\source\\repos\\LPR_commandLine\\LPAlgorithms\\PrimalSimplex.cs",
+              "RelativeToolTip": "LPR_commandLine\\LPAlgorithms\\PrimalSimplex.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T05:01:15.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "knapsackBranchAndBound.cs",
+              "DocumentMoniker": "C:\\Users\\walte\\source\\repos\\LPR_commandLine\\LPAlgorithms\\knapsackBranchAndBound.cs",
+              "RelativeDocumentMoniker": "LPR_commandLine\\LPAlgorithms\\knapsackBranchAndBound.cs",
+              "ToolTip": "C:\\Users\\walte\\source\\repos\\LPR_commandLine\\LPAlgorithms\\knapsackBranchAndBound.cs",
+              "RelativeToolTip": "LPR_commandLine\\LPAlgorithms\\knapsackBranchAndBound.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAgwFkAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T05:01:15.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "InitializeTable.cs",
+              "DocumentMoniker": "C:\\Users\\walte\\source\\repos\\LPR_commandLine\\LPAlgorithms\\InitializeTable.cs",
+              "RelativeDocumentMoniker": "LPR_commandLine\\LPAlgorithms\\InitializeTable.cs",
+              "ToolTip": "C:\\Users\\walte\\source\\repos\\LPR_commandLine\\LPAlgorithms\\InitializeTable.cs",
+              "RelativeToolTip": "LPR_commandLine\\LPAlgorithms\\InitializeTable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T05:01:14.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DualSimplex.cs",
+              "DocumentMoniker": "C:\\Users\\walte\\source\\repos\\LPR_commandLine\\LPAlgorithms\\DualSimplex.cs",
+              "RelativeDocumentMoniker": "LPR_commandLine\\LPAlgorithms\\DualSimplex.cs",
+              "ToolTip": "C:\\Users\\walte\\source\\repos\\LPR_commandLine\\LPAlgorithms\\DualSimplex.cs",
+              "RelativeToolTip": "LPR_commandLine\\LPAlgorithms\\DualSimplex.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgBAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T05:01:13.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CuttingPlaneAlgorithm.cs",
+              "DocumentMoniker": "C:\\Users\\walte\\source\\repos\\LPR_commandLine\\LPAlgorithms\\CuttingPlaneAlgorithm.cs",
+              "RelativeDocumentMoniker": "LPR_commandLine\\LPAlgorithms\\CuttingPlaneAlgorithm.cs",
+              "ToolTip": "C:\\Users\\walte\\source\\repos\\LPR_commandLine\\LPAlgorithms\\CuttingPlaneAlgorithm.cs",
+              "RelativeToolTip": "LPR_commandLine\\LPAlgorithms\\CuttingPlaneAlgorithm.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAIwHIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T05:01:13.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BranchAndBoundSimplex.cs",
+              "DocumentMoniker": "C:\\Users\\walte\\source\\repos\\LPR_commandLine\\LPAlgorithms\\BranchAndBoundSimplex.cs",
+              "RelativeDocumentMoniker": "LPR_commandLine\\LPAlgorithms\\BranchAndBoundSimplex.cs",
+              "ToolTip": "C:\\Users\\walte\\source\\repos\\LPR_commandLine\\LPAlgorithms\\BranchAndBoundSimplex.cs",
+              "RelativeToolTip": "LPR_commandLine\\LPAlgorithms\\BranchAndBoundSimplex.cs",
+              "ViewState": "AQIAAGgAAAAAAAAAAAAuwBAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T05:01:12.55Z",
               "EditorCaption": ""
             }
           ]

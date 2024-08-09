@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 namespace LPR_commandLine.LPAlgorithms
 {
 
-    internal class DualSimplex
+    public class DualSimplex
     {
         private InitializeTable _initializer;
         private LinearProgrammingModel _model;

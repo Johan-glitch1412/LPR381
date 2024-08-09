@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LPR_commandLine")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5ec33e6d8707f3823a5fb35919b513d3e0443607")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fc440993ba49259f3acb994bd5d80b4d0c4f3f4a")]
 [assembly: System.Reflection.AssemblyProductAttribute("LPR_commandLine")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LPR_commandLine")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
